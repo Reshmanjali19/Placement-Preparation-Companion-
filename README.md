@@ -1,6 +1,6 @@
 # Placement Prep Companion – Smart Fresher Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 Placement Prep Companion is a structured HTML-based dashboard designed to track and manage my placement preparation journey. 
 
 This project reflects consistency, learning discipline, and structured progress tracking as a Computer Science Engineering student.
@@ -33,12 +33,6 @@ This project demonstrates:
 - Practical HTML implementation
 - Real-world student dashboard concept
 
----
-
-## 📷 Screenshots
-(Add your project screenshot here)
-
----
 
 ## 👩‍💻 Author
 Reshma Reshmanjali  
